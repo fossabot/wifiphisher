@@ -50,5 +50,9 @@ href="https://github.com/DanMcInerney/fakeAP">fakeAP</a>.
 Wifiphisher is licensed under the MIT license. See [LICENSE](LICENSE) for more information.
 
 [![alt text][1.1]][1]
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fwifiphisher.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fwifiphisher?ref=badge_shield)
 [1.1]: http://i.imgur.com/tXSoThF.png (Follow me)
 [1]: http://www.twitter.com/_sophron
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fwifiphisher.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fwifiphisher?ref=badge_large)
